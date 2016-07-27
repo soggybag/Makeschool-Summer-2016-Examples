@@ -3,7 +3,7 @@
 These examples were created during the Makeschool 2016 Summer Program. These examples mostly cover SpriteKit, and 
 were created in response to discussions with students. 
 
-### Bezier Landscape - Illustrates a system for creating an endless physics landscape drawn from curves. This tries to give 
+### (Bezier Landscape)[https://github.com/soggybag/Bezier-Landscape] - Illustrates a system for creating an endless physics landscape drawn from curves. This tries to give 
 some insight as to how games like Tiny Wings and Alto's Adventure function. 
 
 (Bezier Landscape)[https://github.com/soggybag/Bezier-Landscape]
