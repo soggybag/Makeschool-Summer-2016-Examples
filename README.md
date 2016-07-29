@@ -38,6 +38,10 @@ grappling hook.
 
 [Grappling Hook Example 3](https://github.com/soggybag/Grappling-Hook-3)
 
+### Health Bar and Floating Points - An example health bar using OOP, with points that float up and disappear. 
+
+[Health Bar](https://github.com/soggybag/HealthBar/tree/master)
+
 ### Physics Limit Joint - An example illustrating how to use a physics limit joint: SKPhysicsJointLimit.
 
 [Physics Limit Joint Example](https://github.com/soggybag/Joint-Limit)
