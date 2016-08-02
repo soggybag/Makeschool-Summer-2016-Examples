@@ -62,6 +62,10 @@ as an alternative when moving to a new scene with present scene doesn't work for
 
 [Load Levels by as an endless scrolling landscape](https://github.com/soggybag/Load-Levels)
 
+### Scrolling List - This class creates a simple scrolling list (similar to a tableview)
+
+[Scrolling List](https://github.com/soggybag/Scrolling-List/tree/master)
+
 ### Sprite Atlas and Animating Textures - An example showing a character with different animated states. This example uses 
 a sprite atlas, and SKAction animateWithTextures.
 
