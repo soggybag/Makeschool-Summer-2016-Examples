@@ -25,6 +25,8 @@ levels.
 
 [Endless Jetpacks Example](https://github.com/soggybag/EndlessJetpacks)
 
+[Endless OOP](https://github.com/soggybag/Endless-OOP/tree/master) A more object oriented version of the example above.
+
 ### Example 2.5D - Position sprites in psuedo 3d space. 
 
 [2.5D Perspective Example](https://github.com/soggybag/Example-25D)
