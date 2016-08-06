@@ -82,3 +82,6 @@ new pieces moving down the screen. This example proposes an easy fix to the prob
 
 [GKStateMachine, GKState Example](https://github.com/soggybag/StateMachine2)
 
+### Animation Extension - This is a helper extension to make simple animation easier to create. 
+
+[Animation Extension](https://github.com/soggybag/Animation-Extension)
