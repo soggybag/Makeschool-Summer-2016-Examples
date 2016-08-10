@@ -89,3 +89,7 @@ new pieces moving down the screen. This example proposes an easy fix to the prob
 ### Scrolling-On-2-Axis - An example of a 2d scrolling background. 
 
 [Scrolling-On-2-Axis](https://github.com/soggybag/Scrolling-On-2-Axis)
+
+### Add Social Features - Some code snippets to send FB, Twitter, or Text Messages. These methods must live in your view controller! 
+
+[Social Snippets](https://gist.github.com/soggybag/c83ed5cc91702b5e4c9c)
