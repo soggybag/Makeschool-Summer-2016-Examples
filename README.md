@@ -93,3 +93,7 @@ new pieces moving down the screen. This example proposes an easy fix to the prob
 ### Add Social Features - Some code snippets to send FB, Twitter, or Text Messages. These methods must live in your view controller! 
 
 [Social Snippets](https://gist.github.com/soggybag/c83ed5cc91702b5e4c9c)
+
+### Simple Scrolling - A simple system to scroll sprites across the screen. 
+
+[Simple Scrolling](https://github.com/soggybag/Simple-Scrolling/tree/master)
